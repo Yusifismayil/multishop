@@ -214,7 +214,6 @@ body {
 
 
 
-/*container  header one*/
 
 
 .container_two {
@@ -479,7 +478,6 @@ body {
     display: block;
 }
 
-/*container two*/
 
 
 
@@ -604,6 +602,8 @@ body {
     top: 0;
     left: 100%;
 }
+
+
 .dreses_drop a {
     display: block;
     width: 100%;
@@ -632,7 +632,7 @@ body {
     display: flex;
 }
 
-/* categories*/
+/* categories container*/
 
 
 .logo_nav {
@@ -738,28 +738,6 @@ body {
     color: #FFD333;
     margin-right: 5px;
 }
-
-
-
-
-
-/*header*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -941,18 +919,6 @@ body {
 
 
 
-
-
-/*fashion*/
-
-
-
-
-
-
-
-
-
 .shop_icon_section {
     width: 100%;
     display: flex;
@@ -993,7 +959,6 @@ body {
 }
 
 
-/*shop icon*/
 
 
 
@@ -1093,10 +1058,8 @@ body {
     flex: 1;
     justify-content: center;
     height: 100px;
-
     flex-direction: column;
     display: flex;
-
     padding-left: 1rem !important;
 }
 
@@ -1114,7 +1077,6 @@ body {
 }
 
 
-/*categories card*/
 
 
 .featured_section {
@@ -1267,10 +1229,6 @@ body {
 .featured_img_icon a:hover {
     background-color: #3D464D;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
-
-
-
-
 }
 
 .featured_text {
@@ -1329,18 +1287,6 @@ body {
 }
 
 
-
-
-
-
-
-
-/*featured card*/
-
-
-
-
-
 .section_special_offset {
     width: 100%;
     display: flex;
@@ -1388,11 +1334,6 @@ body {
 }
 
 
-/*special offer down*/
-
-
-
-
 .featured_section_two {
     width: 100%;
     display: flex;
@@ -1402,17 +1343,6 @@ body {
 .featured_section_two .container_featured_product {
     padding-top: 62px;
 }
-
-/*featured two*/
-
-
-
-
-
-
-
-
-
 
 .footer_section {
     width: 100%;
@@ -1703,48 +1633,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*index two*/
-/*index two*/
-/*index two*/
-/*index two*/
-/*index two*/
-/*index two*/
-/*index two*/
-/*index two*/
-/*index two*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .shop_list_section {
     width: 100%;
     display: flex;
@@ -1803,11 +1691,6 @@ body {
 }
 
 
-
-
-
-
-/*shop link*/
 
 
 
@@ -1941,15 +1824,6 @@ body {
 .filter_price_text div label:nth-child(3){
     margin-left: 5px;
 }
-
-
-
-/*filter*/
-
-
-
-
-
 
 
 .shop_list_product {
@@ -2175,46 +2049,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-/*shop*/
-
-
-
-
-
-
-
-
-
-
-
-
 .shop_detail_section {
     width: 100%;
     display: flex;
@@ -2410,17 +2244,6 @@ body {
 
 
 
-
-
-
-
-
-
-
-/*custom radio*/
-
-
-
 .radio_shop_cont {
     margin-bottom: 1rem;
     display: flex;
@@ -2516,7 +2339,6 @@ body {
     font-weight: bold;
 }
 
-/*custom radio*/
 
 
 
@@ -2621,15 +2443,6 @@ body {
 
 
 
-
-
-/*shop detail*/
-
-
-
-
-
-
 .shop_detail_discription {
     width: 100%;
     padding: 30px;
@@ -2679,7 +2492,6 @@ body {
 }
 
 
-/*information content*/
 
 
 .information_content h4 {
@@ -2730,13 +2542,6 @@ body {
 .information_content {
     display: none;
 }
-
-
-
-
-
-/*information content */
-
 
 
 
@@ -2803,10 +2608,6 @@ body {
     font-weight: 400;
 }
 
-
-
-
-/*reviews email*/
 
 
 .reviews_email small {
@@ -2921,34 +2722,9 @@ body {
 }
 
 
-
-
 .active {
     display: block;
 }
-
-
-
-
-
-
-
-
-
-
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-/*shoping cart*/
-
-
 
 
 .shoping_cart_section {
@@ -3224,24 +3000,6 @@ body {
 }
 
 
-
-
-
-
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-/*index five*/
-
-
-
 .section_adress {
     width: 100%;
     display: flex;
@@ -3400,15 +3158,6 @@ body {
     margin-right: 0;
     margin-bottom: 1rem;
 }
-
-
-
-
-/*index six*//*index six*//*index six*//*index six*//*index six*//*index six*//*index six*//*index six*//*index six*//*index six*//*index six*//*index six*/
-
-
-
-
 
 
 .section_contact {
